@@ -1,7 +1,6 @@
 # ETL-Assesment-Green-Finance-Data-Analisys
 
-Berikut adalah tugas dan jawaban dari Kelompok 5
-Anggota Kelompok 5 adalah
+Berikut adalah tugas dan jawaban dari **Anggota Kelompok 5**
 
  | No| Nama | No Absen |
 | --- | --- | --- |
