@@ -5,7 +5,7 @@ Anggota Kelompok 5 adalah
 
  | No| Nama | No Absen |
 | --- | --- | --- |
-| 1. | Bavari | .... |
+| 1. | Bavari | 9.029.DB2025 |
 | 2. | Deka | ..... |
 | 3. | Firmansyah | .... |
 | 4. | Maksum | 9.045.DB2025 |
