@@ -4,9 +4,9 @@ Berikut adalah tugas dan jawaban dari **Anggota Kelompok 5**
 
  | No| Nama | No Absen |
 | --- | --- | --- |
-| 1. | Bavari | .... |
+| 1. | Bavari | 9.029.DB2025 |
 | 2. | Deka | ..... |
-| 3. | Firmansyah | .... |
+| 3. | Firmansyah | 10.049.DB2025 |
 | 4. | Maksum | 9.045.DB2025 |
 
 ## 1. Pendahuluan
